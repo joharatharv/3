@@ -1,0 +1,12 @@
+{
+  "joharatharv@gmail.com": {
+    "name": "Atharv Johar",
+    "email": "joharatharv@gmail.com",
+    "password": "7815696ecbf1c96e6894b779456d330e"
+  },
+  "asd@gmas": {
+    "name": "asd",
+    "email": "asd@gmas",
+    "password": "4beef717fb1bf50ac1d0429fb85f39bd"
+  }
+}
